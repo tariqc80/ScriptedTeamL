@@ -1,0 +1,79 @@
+body{
+    
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#32a6e5), to(#94ed80));
+    background: -webkit-linear-gradient(#32a6e5, #94ed80);
+    background: -moz-linear-gradient(#32a6e5, #94ed80);
+    background: -o-linear-gradient(#32a6e5, #94ed80);
+    background: linear-gradient(#32a6e5, #94ed80);
+    margin: 0;
+     
+}
+header{
+    background:url('images/green_background1.jpg');
+    height:70px;
+    width:100%;
+    
+}
+h1 {
+    margin: 0;
+    font-family:'Open Sans Condensed', sans-serif;
+    text-shadow: 4px 2px 4px #666666;
+    font-size: 50px;
+     text-align:center;
+}
+
+h2{
+   font-family: 'Raleway', sans-serif;
+    font-size:30px;
+    border:solid;
+    text-align:center;
+    
+}
+li{
+    font-family:'Work Sans', sans-serif;
+    padding:5px;
+    font-size:16px;
+    list-style:none;
+}
+#smoker_tips{
+    display:none;
+}
+.main_content{
+    width:1000px;
+    float: right;
+    position:relative; 
+    margin-right:150px;
+
+
+}
+.topic{
+    cursor:pointer;
+}
+
+#menu-icon {
+    float:left;
+    height:40px;
+}
+
+.earth{
+    float:right;
+    width:350px;
+    margin-right:20px;
+    margin-top:18px;
+}
+
+.sidebar {
+    margin-top: 100px;
+    margin-left:50px;
+}
+#share {
+    margin-bottom:100px;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+}
+#email-form{
+    text-align:center;
+    margin-top:50px;
+}
+
